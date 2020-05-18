@@ -3,6 +3,15 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
+/*
+Authors: Jose Gil, Santos Huchin, Luis Lopez.
+Project: PianoRMI.
+Course: Distributed Systems.
+Undergraduate Program: Computer Systems Engineering.
+University: Universidad Autonoma de Campeche.
+All rights reserved.
+*/
+
 public class Canciones implements CancionesInterface {
     
     public Canciones() {}

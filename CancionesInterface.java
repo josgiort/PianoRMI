@@ -1,6 +1,14 @@
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
+/*
+Authors: Jose Gil, Santos Huchin, Luis Lopez.
+Project: PianoRMI.
+Course: Distributed Systems.
+Undergraduate Program: Computer Systems Engineering.
+University: Universidad Autonoma de Campeche.
+All rights reserved.
+*/
 
 public interface CancionesInterface extends Remote{
     

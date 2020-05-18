@@ -10,6 +10,15 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.util.Random;
 
+/*
+Authors: Jose Gil, Santos Huchin, Luis Lopez.
+Project: PianoRMI.
+Course: Distributed Systems.
+Undergraduate Program: Computer Systems Engineering.
+University: Universidad Autonoma de Campeche.
+All rights reserved.
+*/
+
 public class Piano extends JFrame {
     //Declaracion de diversos componentes
     private JButton gatilloTocarCualquierCancion;
